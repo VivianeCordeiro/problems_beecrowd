@@ -4,6 +4,8 @@ Viviane Cardosina Cordeiro - Software Engineer
 
 Universidade Federal de Itajubá - UNIFEI
 
+Linkedin - www.linkedin.com/in/viviane-cordeiro-45b23b197
+
 ## Conteúdo do Repositório
 
 Este repositório contém resoluções de problemas simples do beecrowd para melhorar a lógica de programação.
