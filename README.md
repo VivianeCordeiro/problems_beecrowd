@@ -11,4 +11,5 @@ Algumas delas foram feitas em C++ e outros em Python.
 ##Compilando e executando no cmd
 
 ``` bash g++ arquivo.cpp -o arquivo```
+
 ``` bash arquivo.exe ```
