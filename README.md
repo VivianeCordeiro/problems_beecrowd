@@ -18,4 +18,5 @@ Certifique-se de ter o g++ instalado em sua maquina:
 ```bash 
 g++ arquivo.cpp -o arquivo
 
-arquivo.exe```
+arquivo.exe
+```
