@@ -10,6 +10,8 @@ Algumas delas foram feitas em C++ e outros em Python.
 
 ## Compilando e executando no cmd
 
+Certifique-se de ter o g++ instalado em sua maquina:
+
 ``` bash g++ arquivo.cpp -o arquivo```
 
 ``` bash arquivo.exe ```
